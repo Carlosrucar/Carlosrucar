@@ -19,10 +19,6 @@
 Si tienes alguna pregunta o deseas colaborar en un proyecto, ¡no dudes en contactarme!  
 **Email:** crodrui1905@ieszaidinvergeles.org
 
-### 😄 Pronombres:
-
-Él
-
 ### ⚡ Fun fact:
 
 ¡Amo los desafíos de programación y resolver problemas complejos!
