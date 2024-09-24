@@ -4,7 +4,7 @@
 
 ### 💼 Proyectos:
 
-- [Desarrollo web en entorno servidor]([https://github.com/Carlosrucar/nombre-repositorio-servidor]) - Mi proyecto.
+- [Desarrollo web en entorno servidor](https://github.com/Carlosrucar/Desarrollo-Web-en-Entorno-Servidor) - Mi proyecto de desarrollo backend.
 
 ### 🔭 Actualmente estoy estudiando en:
 
