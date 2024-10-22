@@ -5,7 +5,7 @@
 ### 💼 Proyectos:
 
 - [Desarrollo web en entorno servidor](https://github.com/Carlosrucar/Desarrollo-Web-en-Entorno-Servidor) - Mi proyecto.
-- [CRUD en php de una tabla de una base de datos](https://github.com/Carlosrucar/AppPokemon.git)-Tabla Pokemon
+- [CRUD en php de una tabla de una base de datos](https://github.com/Carlosrucar/AppPokemon.git) - Tabla Pokemon
 
 ### 🔭 Actualmente estoy estudiando en:
 
