@@ -6,7 +6,7 @@
 
 - [Desarrollo web en entorno servidor](https://github.com/Carlosrucar/Desarrollo-Web-en-Entorno-Servidor) - Mi proyecto.
 - [CRUD en php de una tabla de una base de datos](https://github.com/Carlosrucar/AppPokemon.git) - Tabla Pokemon
-- [Aplicación De Pokemon en Laravel](https://github.com/Carlosrucar/AppPokemon.git) - Tabla Pokemon Laravel
+- [Aplicación De Pokemon en Laravel](https://github.com/Carlosrucar/traditionalLaravelAppPokemon.git) - Tabla Pokemon Laravel
 
 ### 🔭 Actualmente estoy estudiando en:
 
