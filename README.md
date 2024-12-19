@@ -8,6 +8,7 @@
 - [CRUD en php de una tabla de una base de datos](https://github.com/Carlosrucar/AppPokemon.git) - Tabla Pokemon
 - [Aplicación De Pokemon en Laravel](https://github.com/Carlosrucar/traditionalLaravelAppPokemon.git) - Tabla Pokemon Laravel
 - [Aplicación De subida de archivos en laravel](https://github.com/Carlosrucar/uploadFileApp.git) - Subida de archivos en laravel
+- [Aplicación De control de usuarios en laravel](https://github.com/Carlosrucar/firstUserApp.git)  - Aplicacion de comtrol de usuario
 
 ### 🔭 Actualmente estoy estudiando en:
 
